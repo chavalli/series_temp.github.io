@@ -1,0 +1,8 @@
+"0",""
+"0","autoplot(haw_ets) +"
+"0","  autolayer(haw_ts_test, color = ""red"") +"
+"0","  labs(x = ""Année"", y = ""CO2 (ppm-volume)"") +"
+"0","  xlim(1985, 2005) +"
+"0","  ylim(340, 380)"
+"2","Scale for 'x' is already present. Adding another scale for 'x', which will replace the existing scale.
+"

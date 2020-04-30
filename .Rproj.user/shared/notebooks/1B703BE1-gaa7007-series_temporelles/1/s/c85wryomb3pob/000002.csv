@@ -1,0 +1,7 @@
+"0",""
+"0","haw_ets <- haw_ts_train %>%"
+"0","  ets() %>%"
+"0","  forecast(h = 13*12)"
+"0","haw_ets %>%"
+"0","  autoplot()"
+"0",""

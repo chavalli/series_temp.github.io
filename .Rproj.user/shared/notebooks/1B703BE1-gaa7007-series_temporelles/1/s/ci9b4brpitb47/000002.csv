@@ -1,0 +1,6 @@
+"0",""
+"0","ggA <- ggseasonplot(window(hawai_ts[, 1], 1959, 2002)) + ggtitle("""")"
+"0","ggB <- ggseasonplot(window(hawai_ts[, 1], 1959, 2002), polar = TRUE) + ggtitle("""")"
+"0","ggC <- ggsubseriesplot(window(hawai_ts[, 1], 1959, 2002), polar = TRUE) + ggtitle("""") + labs(y=""CO2"")"
+"0",""
+"0","plot_grid(ggA, ggB, ggC, ncol = 3, labels = c(""A"", ""B"", ""C""))"

@@ -1,0 +1,5 @@
+"0",""
+"0","hawai_ts <- ts(hawai %>% select(-time),"
+"0","               start = c(1958.167, 1),"
+"0","               frequency = 12)"
+"0",""

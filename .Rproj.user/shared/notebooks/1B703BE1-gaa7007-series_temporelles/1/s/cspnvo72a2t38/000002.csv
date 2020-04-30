@@ -1,0 +1,4 @@
+"0",""
+"0","haw_ts_train <- window(hawai_ts, start = 1958.166, end = 1988.792)"
+"0","haw_ts_test <- window(hawai_ts, start =  1988.875, end = 2001.917)"
+"0",""
